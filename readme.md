@@ -54,3 +54,12 @@ ou, alternativamente, **Installing MR12.8 as a New System (QuickStart)**.
       ```bash
    telnet localhost 6180
 
+
+
+comandos interessantes
+list
+status
+edit foo.pl1
+run foo
+logout
+
