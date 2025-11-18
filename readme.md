@@ -38,7 +38,6 @@ Baixe o pacote **MR12.8 QuickStart** e extraia tudo na pasta `C:\multics`.
 
 1. Abra o **PowerShell** ou **Prompt de Comando**:
    ```bash
-   cd C:\multics
    .\dps8 MR12.8_boot.ini
    ```
 2. Abra outro terminal e conecte-se:
