@@ -91,6 +91,11 @@ w           # salva
 q           # sai
 ```
 
+ler:
+```bash
+print texto
+```
+
 Remover:
 ```bash
 delete texto
